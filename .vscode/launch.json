@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "PIC18F452 – MPLAB Simulator",
+      "type": "mplab-core-da",
+      "request": "launch",
+      "program": "${workspaceFolder}/build/pic_sim.elf",
+      "device": "PIC18F452",
+      "tool": "Simulator",
+      "stopOnEntry": true,
+      "preLaunchTask": "build (xc8)"
+    }
+  ]
+}
