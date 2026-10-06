@@ -44,7 +44,7 @@ The example program:
 Requirements: macOS 12+ (Intel or Apple Silicon), VS Code installed, and the Xcode Command Line Tools (for `make` and `git`: `xcode-select --install`).
 
 ```bash
-git clone <this-repo-url> pic_sim
+git clone https://github.com/geekychris/pic_sim.git
 cd pic_sim
 bash scripts/setup-mac.sh
 ```
@@ -76,7 +76,7 @@ Requirements: Windows 10/11 x64, VS Code installed (`winget install Microsoft.Vi
 Open **PowerShell as Administrator** (Start → type *PowerShell* → *Run as administrator*):
 
 ```powershell
-git clone <this-repo-url> pic_sim
+git clone https://github.com/geekychris/pic_sim.git
 cd pic_sim
 powershell -ExecutionPolicy Bypass -File scripts\setup-windows.ps1
 ```
