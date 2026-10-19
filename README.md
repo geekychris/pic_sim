@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Pic Sim logo" width="180">
+</p>
+
 # PIC18F452 Simulator Playground (VS Code + MPLAB)
 
 Write C for a Microchip **PIC18F452** and run it in the **MPLAB Simulator** inside **VS Code**, with no hardware needed. Works on **macOS** and **Windows**.
